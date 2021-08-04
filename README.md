@@ -1,0 +1,2 @@
+# mailmxn
+Email Automation Tool
