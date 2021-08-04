@@ -1,6 +1,6 @@
 # How to Install  and Open mailmxn
 
-1. Download this current directory
+1. Download [this current directory](https://github.com/itsrxmmy/mailmxn/tree/main/mailmxn)
 
 2. Locate the ```mailmxn - 1.0.0 (Beta).exe``` file
   - DO NOT move ANY items from the Folder
