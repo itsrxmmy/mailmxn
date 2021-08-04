@@ -1,4 +1,4 @@
-# How to install
+# How to Install  and Open mailmxn
 
 1. Download this current directory
 
