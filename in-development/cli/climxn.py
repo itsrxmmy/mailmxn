@@ -72,7 +72,7 @@ class cli:
         cli.clear()
         while True:
             cmd = input(cli.clr.bblue + "~ " + cli.clr.bcyan + "$ ")
-            if cmd
+
 
 cli.setup()
 cli.CLI()
